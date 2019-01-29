@@ -1,0 +1,14 @@
+body{ font: Arial 18px; text-align: center; }
+
+path{
+stroke: steelblue;
+fill: none;
+stroke-width: 2;
+}
+
+.axis path, .axis line{
+fill: none;
+stroke: grey;
+stroke-width: 1;
+shape-rendering: crispEdges;
+}
